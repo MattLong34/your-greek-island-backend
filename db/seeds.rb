@@ -39,3 +39,94 @@ santorini = Island.create(name: "Santorini",
 # Hailey: 11-20
 # https://www.prima.co.uk/travel/g30976502/best-greek-islands/https://www.prima.co.uk/travel/g30976502/best-greek-islands/https://www.prima.co.uk/travel/g30976502/best-greek-islands/
 
+mykonos = Island.create(name: "Mykonos", 
+    image: "",
+    main_page: false,
+    short_bio: "Best Greek island for the style-conscious",
+    long_bio: "An island for those who like to be seen, Mykonos is not only the most glamorous Greek island, but one of the most stylish in the world. Here, you can stay in chic hotels, experience world-class nightlife and rub shoulders with the trendiest jet-setters around.",
+    tourist_rank: 0, 
+    family_rank: 0,
+    budget_rank: 0
+)
+
+zakynthos = Island.create(name: "Zakynthos(Zante)", 
+    image: "",
+    main_page: false,
+    short_bio: "Best Greek island for spotting sea turtles",
+    long_bio: "Zakynthos, or Zante as it is also known, isn't just home to drop-dead gorgeous beaches like Shipwreck Beach, but is known for its endangered sea turtles, which lay their eggs on the Ionian island's white sands.",
+    tourist_rank: 0, 
+    family_rank: 0,
+    budget_rank: 0
+)
+tinos = Island.create(name: "Tinos", 
+    image: "",
+    main_page: false,
+    short_bio: "Best Greek island for incredible scenery",
+    long_bio: "Set in the Cyclades, Tinos is the place to visit if you appreciate wild beauty, typical Greek villages that climb up the side of mountains and lunar landscapes. There are 750 chapels, Tinian cheese to try and the village gems to visit include Pyrgos, Ktikado, Falatados and Tripotamos",
+    tourist_rank: 0, 
+    family_rank: 0,
+    budget_rank: 0
+)
+skiathos = Island.create(name: "Skiathos", 
+    image: "",
+    main_page: false,
+    short_bio: "Best Greek island for beaches",
+    long_bio: "With 60 splendid beaches to choose from, it's safe to say that Skiathos is the best Greek island for sunbathers. From Lalaria to Koukounaries, you'll find lovely stretches of sand and pebble beaches backed by lush pine trees. ",
+    tourist_rank: 0, 
+    family_rank: 0,
+    budget_rank: 0
+)
+symi = Island.create(name: "Symi", 
+    image: "",
+    main_page: false,
+    short_bio: "Best Greek island for architecture",
+    long_bio: "A picturesque island boasting one of the most beautiful harbours in Greece, Symi also treats visitors to stunning architecture, great cafes and restaurants, plus a slower pace of life. ",
+    tourist_rank: 4, 
+    family_rank: 0,
+    budget_rank: 0
+)
+lefkada = Island.create(name: "Lefkada", 
+    image: "",
+    main_page: false,
+    short_bio: "Best Greek island for watersports",
+    long_bio: "This Ionian gem is easy to access, friendly and – all the ingredients you need for a fun holiday on one of the best Greek islands for active travellers. A number of its beaches have been awarded Blue Flags and Lefkada, or Lefkas, is the place to sail, windsurf and enjoy other watersports.",
+    tourist_rank: 0, 
+    family_rank: 0,
+    budget_rank: 0
+)
+alonnisos = Island.create(name: "Alonnisos", 
+    image: "",
+    main_page: false,
+    short_bio: "Best Greek island for nature lovers",
+    long_bio: "This island treasure offers rugged landscapes, olive groves and pine forests perfect for leisurely walks – it's a nature lover's dream! The most remote of the Northern Sporades, Alonissos, is home to the National Marine Park of Northern Sporades, where rare seabirds, dolphins and the Mediterranean monk seal reside.",
+    tourist_rank: 0, 
+    family_rank: 0,
+    budget_rank: 0
+)
+sifnos = Island.create(name: "Sifanos", 
+    image: "",
+    main_page: false,
+    short_bio: "Best Greek island for foodies",
+    long_bio: "An island of flavours, Sifnos is where you'll discover mouth-watering local specialties, such as chickpea balls, mastelo (lamb cooked in red wine and spices) and honey pies. One of the best Greek islands for its traditional villages and secluded beaches, it capital Apollonia is known for pretty narrow streets, white-washed houses and the Folklore Museum. ",
+    tourist_rank: 0, 
+    family_rank: 0,
+    budget_rank: 0
+)
+astypalaia = Island.create(name: "Astypalaia", 
+    image: "",
+    main_page: false,
+    short_bio: "Best Greek island for going off the beaten track",
+    long_bio: "This Dodecanese island shaped like a butterfly sits far west of Kos and has centuries-old history, attractive villages and sun-drenched beaches that many tourists fail to explore.",
+    tourist_rank: 0, 
+    family_rank: 0,
+    budget_rank: 0
+)
+poros = Island.create(name: "Poross", 
+    image: "",
+    main_page: false,
+    short_bio: "Best Greek island from Athens",
+    long_bio: "This wonderful Greek island is a popular weekend spot among Athenians and a fabulous place to escape. The small island of Poros is actually made up of two islands – Spheria and Kalavria – which are connected by a road. You'll find everything you need from one of the best Greek islands – beaches, natural scenery and lots of sunshine that couples and families will love.",
+    tourist_rank: 0, 
+    family_rank: 0,
+    budget_rank: 0
+)

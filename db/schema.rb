@@ -14,9 +14,13 @@ ActiveRecord::Schema.define(version: 2020_07_25_145120) do
 
   create_table "islands", force: :cascade do |t|
     t.string "name"
-    t.integer "tourist_rank"
-    t.string "description"
     t.string "image"
+    t.boolean "main_page"
+    t.string "short_bio"
+    t.string "long_bio"
+    t.integer "tourist_rank"
+    t.integer "family_rank"
+    t.integer "budget_rank"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end

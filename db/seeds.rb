@@ -184,7 +184,7 @@ astypalaia = Island.create(name: "Astypalaia",
     family_rank: 0,
     budget_rank: 0
 )
-poros = Island.create(name: "Poross", 
+poros = Island.create(name: "Poros", 
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/poros-greece-royalty-free-image-1582108299.jpg?crop=1.00xw:0.918xh;0,0.0128xh&resize=980:*",
     main_page: false,
     short_bio: "Best Greek island from Athens",

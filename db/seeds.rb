@@ -13,13 +13,13 @@ corfu = Island.create(name: "Corfu",
 santorini = Island.create(name: "Santorini", 
     image: "https://designspell.files.wordpress.com/2013/07/999015_10151664509541726_476588225_n.jpg",
     main_page: true,
-    short_bio: "Santorini is a popular holiday destination in Greece, and part of the Cycladic island group in the Aegean Sea. It is best known for its picturesque clifftop tourist towns (Fira, Oia, and Imerovigli), all of which offer spectacular views over the caldera: the crater created after a 16th-century BC volcanic eruption. With a land area of 76 square kilometers, Santorini is a little bigger than New York’s island of Manhattan.",
+    short_bio: "Best Greek island for couples",
     long_bio: "This romantic island needs no introduction and is a popular location for couples' escapes, honeymoons and weddings abroad. Santorini, one of the Cyclade Islands, owes its dramatic scenery to a volcano which erupted in the 16th century. Here, you can watch some of the world's best sunsets, bask on beaches with red, black and green sand, and take in the contrasts of white Cycladic architecture against the deep blue of the Aegean Sea.", 
     tourist_rank: 2, 
     family_rank: 0,
     budget_rank: 0
 )
-
+# Santorini is a popular holiday destination in Greece, and part of the Cycladic island group in the Aegean Sea. It is best known for its picturesque clifftop tourist towns (Fira, Oia, and Imerovigli), all of which offer spectacular views over the caldera: the crater created after a 16th-century BC volcanic eruption. With a land area of 76 square kilometers, Santorini is a little bigger than New York’s island of Manhattan.
 kefalonia = Island.create(name: "Kefalonia", 
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/scenic-view-of-sea-against-blue-sky-royalty-free-image-1582045312.jpg?crop=1.00xw:0.921xh;0,0.0612xh&resize=980:*",
     main_page: true,

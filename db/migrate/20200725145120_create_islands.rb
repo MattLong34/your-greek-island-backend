@@ -5,6 +5,7 @@ class CreateIslands < ActiveRecord::Migration[6.0]
       t.string :image
       t.boolean :main_page
       t.string :short_bio
+      t.string :medium_bio
       t.string :long_bio
       t.integer :tourist_rank
       t.integer :family_rank

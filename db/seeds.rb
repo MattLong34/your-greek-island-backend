@@ -25,7 +25,7 @@ santorini = Island.create(name: "Santorini",
     family_rank: 0,
     budget_rank: 0
 )
-
+# Santorini is a popular holiday destination in Greece, and part of the Cycladic island group in the Aegean Sea. It is best known for its picturesque clifftop tourist towns (Fira, Oia, and Imerovigli), all of which offer spectacular views over the caldera: the crater created after a 16th-century BC volcanic eruption. With a land area of 76 square kilometers, Santorini is a little bigger than New York’s island of Manhattan.
 kefalonia = Island.create(name: "Kefalonia", 
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/scenic-view-of-sea-against-blue-sky-royalty-free-image-1582045312.jpg?crop=1.00xw:0.921xh;0,0.0612xh&resize=980:*",
     main_page: false,

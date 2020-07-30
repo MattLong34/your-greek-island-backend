@@ -25,7 +25,7 @@ santorini = Island.create(name: "Santorini",
     family_rank: 0,
     budget_rank: 0
 )
-# Santorini is a popular holiday destination in Greece, and part of the Cycladic island group in the Aegean Sea. It is best known for its picturesque clifftop tourist towns (Fira, Oia, and Imerovigli), all of which offer spectacular views over the caldera: the crater created after a 16th-century BC volcanic eruption. With a land area of 76 square kilometers, Santorini is a little bigger than New York’s island of Manhattan.
+
 kefalonia = Island.create(name: "Kefalonia", 
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/scenic-view-of-sea-against-blue-sky-royalty-free-image-1582045312.jpg?crop=1.00xw:0.921xh;0,0.0612xh&resize=980:*",
     main_page: false,
@@ -187,6 +187,7 @@ tinos = Island.create(name: "Tinos",
     family_rank: 0,
     budget_rank: 3
 )
+
 skiathos = Island.create(name: "Skiathos", 
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lalaria-beach-in-skiathos-royalty-free-image-1582195642.jpg?crop=0.923xw:1.00xh;0.0595xw,0&resize=980:*",
     main_page: true,
@@ -199,6 +200,7 @@ skiathos = Island.create(name: "Skiathos",
     family_rank: 0,
     budget_rank: 0
 )
+
 symi = Island.create(name: "Symi", 
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/stunning-greek-island-royalty-free-image-1582048797.jpg?crop=1.00xw:0.921xh;0,0.0306xh&resize=980:*",
     main_page: false,
@@ -213,6 +215,7 @@ symi = Island.create(name: "Symi",
     family_rank: 0,
     budget_rank: 5
 )
+
 lefkada = Island.create(name: "Lefkada", 
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/people-kiting-in-lefkada-ionian-sea-greece-europe-royalty-free-image-1582049163.jpg?crop=1.00xw:0.918xh;0,0.0510xh&resize=980:*",
     main_page: false,
@@ -225,6 +228,7 @@ lefkada = Island.create(name: "Lefkada",
     family_rank: 0,
     budget_rank: 0
 )
+
 alonnisos = Island.create(name: "Alonnisos", 
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/agalou-laka-beach-from-above-alonissos-royalty-free-image-1582049304.jpg?crop=1.00xw:0.921xh;0,0&resize=980:*",
     main_page: false,
@@ -237,6 +241,7 @@ alonnisos = Island.create(name: "Alonnisos",
     family_rank: 0,
     budget_rank: 1
 )
+
 sifnos = Island.create(name: "Sifanos", 
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/suspending-boat-royalty-free-image-1582107742.jpg?crop=1xw:0.91279xh;center,top&resize=980:*",
     main_page: false,
@@ -251,6 +256,7 @@ sifnos = Island.create(name: "Sifanos",
     family_rank: 0,
     budget_rank: 0
 )
+
 astypalaia = Island.create(name: "Astypalaia", 
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/astypalea-island-dodecanese-greece-royalty-free-image-1582108014.jpg?crop=0.896xw:1.00xh;0.104xw,0&resize=980:*",
     main_page: false,
@@ -265,6 +271,7 @@ astypalaia = Island.create(name: "Astypalaia",
     family_rank: 0,
     budget_rank: 4
 )
+
 poros = Island.create(name: "Poros", 
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/poros-greece-royalty-free-image-1582108299.jpg?crop=1.00xw:0.918xh;0,0.0128xh&resize=980:*",
     main_page: false,

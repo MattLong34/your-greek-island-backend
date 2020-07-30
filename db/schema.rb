@@ -22,6 +22,7 @@ ActiveRecord::Schema.define(version: 2020_07_25_145120) do
     t.integer "tourist_rank"
     t.integer "family_rank"
     t.integer "budget_rank"
+    t.integer "weather_id"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end

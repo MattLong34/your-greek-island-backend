@@ -10,6 +10,7 @@ class CreateIslands < ActiveRecord::Migration[6.0]
       t.integer :tourist_rank
       t.integer :family_rank
       t.integer :budget_rank
+      t.integer :weather_id
       
       t.timestamps
     end

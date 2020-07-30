@@ -10,7 +10,8 @@ corfu = Island.create(name: "Corfu",
     The miles of coastline and picturesque beaches are what draws tourists to Corfu each year. Whether you're looking for quiet sands with calm waters or pebbly beaches with plenty of nearby amenities, you'll find it on Corfu. And after a few days of fun in the sun, set aside some time to explore the island's unique historical and religious attractions. Many of the top sights, like the Palaio Frourio (Old Fortress) and the Corfu Museum of Asian Art, are centered around Corfu Town. When you're ready to venture to the western side of the island, one-of-a-kind attractions, such as the Paleokastritsa Monastery and the Corfu Donkey Rescue, will be waiting for you.",
     tourist_rank: 3, 
     family_rank: 0,
-    budget_rank: 0
+    budget_rank: 0,
+    weather_id: 2463679
 )
 
 santorini = Island.create(name: "Santorini", 
@@ -23,7 +24,8 @@ santorini = Island.create(name: "Santorini",
     Your first order of business in Santorini is to hit the colorful beaches – the black and red sands make for a memorable visit. Next up, indulge in the archaeological delights of the impressively preserved Ancient Akrotiri or hike to Ancient Thera to see the ruins of three empires, including the Romans. From there, catch a breathtaking view of the caldera, a brilliant turquoise pool of water that serves as the nucleus for the varied isles of this archipelago. Some would say you only need a day to enjoy these islands' charms (they are a popular port of call for cruise ships), but to really drink in all Santorini has to offer, you'll need a few days to a week. Then you'll have plenty of time to learn there's more to these comely dots of the Cyclades than meets the eye.",
     tourist_rank: 1, 
     family_rank: 0,
-    budget_rank: 0
+    budget_rank: 0,
+    weather_id: 8133832
 )
 
 kefalonia = Island.create(name: "Kefalonia", 
@@ -36,7 +38,8 @@ kefalonia = Island.create(name: "Kefalonia",
     If you happen to love snorkeling or diving then the seabed around the island will definitely satisfy you. You might even get the chance to encounter the rare, caretta caretta, sea turtle that take refuge here, as well as the monk seals monachus monachus. Kefalonia’s culinary tradition, history, traditional villages, upbeat nightlife and pristine beaches will make you fall in love with the island.",
     tourist_rank: 0, 
     family_rank: 0,
-    budget_rank: 0
+    budget_rank: 0,
+    weather_id: 7290409
 )
 
 crete = Island.create(name: "Crete", 
@@ -49,7 +52,8 @@ crete = Island.create(name: "Crete",
     Crete's experiences are as assorted as its history, so take some time to decide what type of vacation you're looking to have before you set anything in stone. For an urban setting with a variety of restaurants, bars and nightclubs, consider staying along the northern coast in Chania or Heraklion. Those who prefer the great outdoors should head to Rethymnon or Agios Nikolaos for the many beautiful beaches.",
     tourist_rank: 4, 
     family_rank: 0,
-    budget_rank: 0
+    budget_rank: 0,
+    weather_id: 6697802
 )
 
 rhodes = Island.create(name: "Rhodes", 
@@ -62,7 +66,8 @@ rhodes = Island.create(name: "Rhodes",
     The atmospheric Old Town of Rhodes is a maze of cobbled streets that will spirit you back to the days of the Byzantine Empire and beyond. Further south, in the picture-perfect town of Lindos, capped by an ancient Acropolis, sugar-cube houses spill down to a turquoise bay. While both Lindos and Rhodes Old Town get very crowded in summer, Rhodes is large enough to allow plenty of room to breathe that pure Aegean air.",
     tourist_rank: 0, 
     family_rank: 0,
-    budget_rank: 0
+    budget_rank: 0,
+    weather_id: 8133781
 )
 
 kastellorizo = Island.create(name: "Kastellorizo", 
@@ -81,7 +86,8 @@ kastellorizo = Island.create(name: "Kastellorizo",
     Taste katoumari and strava, the traditional sweets offered in local tavernas.",
     tourist_rank: 0, 
     family_rank: 5,
-    budget_rank: 0
+    budget_rank: 0,
+    weather_id: 8133781
 )
 
 chios = Island.create(name: "Chios", 
@@ -96,7 +102,8 @@ chios = Island.create(name: "Chios",
     Chios, part of the Northeastern Aegean island complex, is home to 53,000 people today. Explore the places where these people build their day-to-day lives: either in medieval settlements where Genoa and Chios meet, or in beautiful small towns by the sea, and participate in religious festivities where the locals make their own colourful history, such as the explosive Easter Saturday night in Vrontados.",
     tourist_rank: 0, 
     family_rank: 2,
-    budget_rank: 0
+    budget_rank: 0,
+    weather_id: 259970
 )
 
 hydra = Island.create(name: "Hydra", 
@@ -113,7 +120,8 @@ hydra = Island.create(name: "Hydra",
     Hydra is also a yachting paradise, as every summer groups of sailing boats moor at the harbour, where they are joined by dozens of sensational motorboats and yachts. It’s worth mentioning that Hydra became famous all over the world thanks to the film “Boy on a Dolphin”, shot on the island in 1957 with Sophia Loren leading the starring role.",
     tourist_rank: 0, 
     family_rank: 1,
-    budget_rank: 0
+    budget_rank: 0,
+    weather_id: 8133769
 )
 
 skopelos = Island.create(name: "Skopelos", 
@@ -128,7 +136,8 @@ skopelos = Island.create(name: "Skopelos",
     Hóra, on the northern coast, is the capital of the island. Its ancient name was Peparithos, after the son of the god Dionysos and Ariadne, who was the first inhabitant of the island. Hóra nestles comfortably on a hill and sprawls around a castle. The medieval castle with its sweeping views of the Aegean, the stone houses with picture-perfect courtyards, narrow paved streets and a number of Byzantine churches, the town encapsulates the essence of a typical Greek island settlement. Take a trip through the rich history of the island with a visit to the Folklore Museum, housed in a renovated mansion built in the previous century, where you can enjoy a rich collection of folklore-related exhibits (open Mon-Sat, 10:00-14:00 & 19:00-22:00; entrance: €3).",
     tourist_rank: 0, 
     family_rank: 0,
-    budget_rank: 0
+    budget_rank: 0,
+    weather_id: 8133766
 )
 
 kos = Island.create(name: "Kos", 
@@ -143,7 +152,8 @@ kos = Island.create(name: "Kos",
     It can be reached by ferry from Piraeus Port or by airplane from the Athens International Airport, Eleftherios Venizelos.",
     tourist_rank: 0, 
     family_rank: 0,
-    budget_rank: 0
+    budget_rank: 0,
+    weather_id: 259245
 )
 
 mykonos = Island.create(name: "Mykonos", 
@@ -156,7 +166,8 @@ mykonos = Island.create(name: "Mykonos",
     Aside from its rollicking nightlife, Mykonos' silky sand beaches are the biggest draw. Vacationers come to them to see and be seen – ahem – often in the nude. This laissez-faire attitude particularly appeals to those who love a ruckus; Psarou and Paradise beaches start jumping early in the day and don't clear out until sunrise. Don't worry early birds, there are also plenty daytime sights like the Cycladic-style buildings of Chora, the windmills of Kato Myli and the ornate temples of Delos. Here, you'll discover the perfect Greek mix of sophistication, relaxation and jubilation.",
     tourist_rank: 2, 
     family_rank: 0,
-    budget_rank: 0
+    budget_rank: 0,
+    weather_id: 257056
 )
 
 zakynthos = Island.create(name: "Zakynthos", 
@@ -173,7 +184,8 @@ zakynthos = Island.create(name: "Zakynthos",
     On Zante, great care is taken to protect two endangered animal species, namely the caretta aretta sea turtle and the monachus monachus seal.",
     tourist_rank: 0, 
     family_rank: 4,
-    budget_rank: 2
+    budget_rank: 2,
+    weather_id: 8133854
 )
 tinos = Island.create(name: "Tinos", 
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tinos-island-village-royalty-free-image-1582048595.jpg?crop=1.00xw:0.918xh;0,0.0383xh&resize=980:*",
@@ -185,7 +197,8 @@ tinos = Island.create(name: "Tinos",
     But a pilgrimage is not the only reason for getting to know the amazing island of Tinos, with the beautiful beaches and the 40 traditional villages, or, according to the philosopher Kastoriadis, the “hand-made Tínos”.This island is the homeland of renowned great artists of marble carving such as Gyzis, Lytras, Chalepas, Filippotis and Sochos, who have been the last famous names to have held the baton of the island’s marble-carving tradition. According to the legend, the famous sculptor of the ancient times, Fidias, had taught the secrets of his art to the locals. Their admirable craft is displayed in chapels, fountains, arches and pigeon lofts. In the village of Pýrgos the Marble Art Museum is worth a visit as much as the Gallery of Tinian Artists right next to the church of Virgin Mary.",
     tourist_rank: 0, 
     family_rank: 0,
-    budget_rank: 3
+    budget_rank: 3,
+    weather_id: 8133928
 )
 
 skiathos = Island.create(name: "Skiathos", 
@@ -198,7 +211,8 @@ skiathos = Island.create(name: "Skiathos",
     Whether you want to hide yourself away from the crowds or dance until you drop – and then wake up and do it all over again –, Skiáthos, with its delirious night life, is a real treat for visitors and especially for young people seeking the freedom to ignore conventions and party on to the frenetic beats of their favourite music! The pedestrianised street by the Old Harbour is the ultimate hotspot for entertainment! Buzzing bars and clubs keep youngsters rocking through the night and until the early morning! The party continues in the area of Ammoudiá (on the road to the airport) where entertainment addicts celebrate in big open air clubs! Colourful cultural events, concerts and art exhibitions held throughout summer add a special touch to holidays on the island!",
     tourist_rank: 5, 
     family_rank: 0,
-    budget_rank: 0
+    budget_rank: 0,
+    weather_id: 8133939
 )
 
 symi = Island.create(name: "Symi", 
@@ -213,7 +227,8 @@ symi = Island.create(name: "Symi",
     In the Byzantine years, economic activities involved shipping, ship building, commerce, sponge fishing, and viniculture. To develop the latter, the Symians had built 120 wine presses all over the island, 11 of which have been reconstructed with the use of their own rock parts; a visit to them is worthwhile as it requires a walk through the refreshing cypress forest of the area of Kourkouniotis.",
     tourist_rank: 0, 
     family_rank: 0,
-    budget_rank: 5
+    budget_rank: 5,
+    weather_id: 8133939
 )
 
 lefkada = Island.create(name: "Lefkada", 
@@ -226,7 +241,8 @@ lefkada = Island.create(name: "Lefkada",
     The island is separated from mainland only by a narrow canal, Drepanos, 50 meters wide. There is a long boardwalk and a floating bridge connecting Lefkada with land, which makes it the only Greek island, except Evia, accessible by car.  It is surrounded by nine satellite islands, including Meganisi, Kastos, Kalamos, Madouri and Skorpios, the island of Aristotle Onassis family. Lefkada has an area of about 300 square kilometers and coastline of 117 kilometers.  Population of about 22.000 inhabitants lives on this Ionian island. Every year, especially during summer months, thousands of tourists from Greece and abroad visit Lefkada to enjoy its mild climate, beautiful beaches, spectacular mountains, clean sea, amazing waterfalls, and to explore the island’s rich culture and charming traditional villages.",
     tourist_rank: 0, 
     family_rank: 0,
-    budget_rank: 0
+    budget_rank: 0,
+    weather_id: 8133851
 )
 
 alonnisos = Island.create(name: "Alonnisos", 
@@ -239,7 +255,8 @@ alonnisos = Island.create(name: "Alonnisos",
     “Ikos”, as was named the island in antiquity, was first inhabited by Stafylos (meaning grape), the son of Dionysus and Ariadne. This myth explains the island’s strong bonds with viticulture from ancient times until today. Urns bearing the stamp “IKION” were exported all around the ancient world confirming the island’s great fame as excellent wine-producing region. According to the myth, Pileas, the father of Achilles, was buried on Alonissos. This is the reason why the island’s second name is “Achilliodromia”. Different versions of this name have survived throughout the years: “Hiliodromia”, “Liadromia”, “Diadromia”.",
     tourist_rank: 0, 
     family_rank: 0,
-    budget_rank: 1
+    budget_rank: 1,
+    weather_id: 8133851
 )
 
 sifnos = Island.create(name: "Sifanos", 
@@ -254,7 +271,8 @@ sifnos = Island.create(name: "Sifanos",
     In every small taverna or classy restaurant in Hóra you can sample some of Sifnos’ exceptional dishes cooked by chefs who know how to tempt our taste buds. When the night falls, set out to discover fancy lounge bars and the hottest nightclubs in the island, and dance the night away! Apollonía also boasts elegant hotels, and homey guesthouses.",
     tourist_rank: 0, 
     family_rank: 0,
-    budget_rank: 0
+    budget_rank: 0,
+    weather_id: 8133683
 )
 
 astypalaia = Island.create(name: "Astypalaia", 
@@ -269,7 +287,8 @@ astypalaia = Island.create(name: "Astypalaia",
     The island was named after Astypalaia, the daughter of Phoenix and Perimede. In the old days the island was also called Ichthyoessa due to its abundant fishing grounds. It was first inhabited in prehistoric times. In 1204 it came under the Venetian rule enforced by the Guerini family until 1537 with the exception of a brief period in time (1269-1310) when the Byzantine Empire took over again. In 1537 the Turks occupied the island. As is the case with the other Dodecanese islands, Astypalaia remained under Turkish rule until 1912; it was then conquered by the Italians, the British, and the Germans until it was finally integrated in Greece in 1948. There are ferries to Piraeus and Kalymnos and flights to Athens and Rhodes Airports.",
     tourist_rank: 0, 
     family_rank: 0,
-    budget_rank: 4
+    budget_rank: 4,
+    weather_id: 8133811
 )
 
 poros = Island.create(name: "Poros", 
@@ -286,5 +305,6 @@ poros = Island.create(name: "Poros",
     Poros is also famous for its beautiful beaches, stretching uninterrupted along the island’s coastline. Swim in the crystal clear waters of the long and sandy beach of Askéli; the hotels and bars situated here make it an interesting tourism resort with buzzing nightlife. Meyálo Neório is a sandy beach where the pine trees sweep right down to the water's edge. Bask in the turquoise blue waters of the “Love Bay”, a beach surrounded by verdant pine trees that literally dip their needles into the sea. Enjoy a unique natural shade!",
     tourist_rank: 0, 
     family_rank: 5,
-    budget_rank: 0
+    budget_rank: 0,
+    weather_id: 133709
 )

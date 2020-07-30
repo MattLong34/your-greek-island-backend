@@ -4,7 +4,7 @@ corfu = Island.create(name: "Corfu",
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vlacherna-monastery-rat-island-on-background-corfu-royalty-free-image-1582042039.jpg?crop=1xw:0.91602xh;center,top&resize=980:*",
     main_page: true,
     short_bio: "Great for Durrells fans",
-    medium_bio: "This romantic island needs no introduction and is a popular location for couples' escapes, honeymoons and weddInfluenced by past Venetian, French and British rule, the Ionian island of Corfu is packed with history, while offering some of the most beautiful beaches in Greece (we're looking at you, Paleokastritsa). It's also where the famous Durrell family lived for four years and the setting of ITV hit The Durrells, which takes viewers to attractive locations, from Mouse Island to Corfu Town, on one of the best Greek islands.", 
+    medium_bio: "This beautiful island is a popular location for couples' escapes, honeymoons and weddings. Influenced by past Venetian, French and British rule, the Ionian island of Corfu is packed with history, while offering some of the most beautiful beaches in Greece (we're looking at you, Paleokastritsa). It's also where the famous Durrell family lived for four years and the setting of ITV hit The Durrells, which takes viewers to attractive locations, from Mouse Island to Corfu Town, on one of the best Greek islands.", 
     long_bio: "Used as the backdrop for epic tales by both Homer and Shakespeare, the island of Corfu (also spelled Korfu or Kerkyra) continues to attract weary travelers looking to escape from the hustle and bustle of everyday life. The sight of its lush green landscape and the scent of olives and citrus from nearby groves is enough to melt away any ounce of stress. And the feel of the sprawling, pebbly beaches beneath your feet or the view of the cerulean waves of the Ionian Sea is enough to make you feel as though you've found paradise.
 
     The miles of coastline and picturesque beaches are what draws tourists to Corfu each year. Whether you're looking for quiet sands with calm waters or pebbly beaches with plenty of nearby amenities, you'll find it on Corfu. And after a few days of fun in the sun, set aside some time to explore the island's unique historical and religious attractions. Many of the top sights, like the Palaio Frourio (Old Fortress) and the Corfu Museum of Asian Art, are centered around Corfu Town. When you're ready to venture to the western side of the island, one-of-a-kind attractions, such as the Paleokastritsa Monastery and the Corfu Donkey Rescue, will be waiting for you.",
@@ -48,7 +48,7 @@ crete = Island.create(name: "Crete",
 
     Crete's experiences are as assorted as its history, so take some time to decide what type of vacation you're looking to have before you set anything in stone. For an urban setting with a variety of restaurants, bars and nightclubs, consider staying along the northern coast in Chania or Heraklion. Those who prefer the great outdoors should head to Rethymnon or Agios Nikolaos for the many beautiful beaches.",
     tourist_rank: 4, 
-    family_rank: 3,
+    family_rank: 0,
     budget_rank: 0
 )
 
@@ -60,7 +60,7 @@ rhodes = Island.create(name: "Rhodes",
     long_bio: "By far the largest and historically the most important of the Dodecanese islands, Rhodes (ro-dos) abounds in beaches, wooded valleys and ancient history. Whether you’re here on a culture-vulture journey through past civilisations, or simply for some laidback beach time, buzzing nightlife, or diving in crystal-clear waters, it’s all here. 
     
     The atmospheric Old Town of Rhodes is a maze of cobbled streets that will spirit you back to the days of the Byzantine Empire and beyond. Further south, in the picture-perfect town of Lindos, capped by an ancient Acropolis, sugar-cube houses spill down to a turquoise bay. While both Lindos and Rhodes Old Town get very crowded in summer, Rhodes is large enough to allow plenty of room to breathe that pure Aegean air.",
-    tourist_rank: 5, 
+    tourist_rank: 0, 
     family_rank: 0,
     budget_rank: 0
 )
@@ -156,10 +156,10 @@ mykonos = Island.create(name: "Mykonos",
     Aside from its rollicking nightlife, Mykonos' silky sand beaches are the biggest draw. Vacationers come to them to see and be seen – ahem – often in the nude. This laissez-faire attitude particularly appeals to those who love a ruckus; Psarou and Paradise beaches start jumping early in the day and don't clear out until sunrise. Don't worry early birds, there are also plenty daytime sights like the Cycladic-style buildings of Chora, the windmills of Kato Myli and the ornate temples of Delos. Here, you'll discover the perfect Greek mix of sophistication, relaxation and jubilation.",
     tourist_rank: 2, 
     family_rank: 0,
-    budget_rank: 1
+    budget_rank: 0
 )
 
-zakynthos = Island.create(name: "Zakynthos (Zante)", 
+zakynthos = Island.create(name: "Zakynthos", 
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/view-from-clifftop-navagio-bay-zakynthos-greece-royalty-free-image-1582048471.jpg?crop=1.00xw:0.918xh;0,0.0816xh&resize=980:*",
     main_page: false,
     short_bio: "Great for spotting sea turtles",
@@ -189,15 +189,15 @@ tinos = Island.create(name: "Tinos",
 )
 skiathos = Island.create(name: "Skiathos", 
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lalaria-beach-in-skiathos-royalty-free-image-1582195642.jpg?crop=0.923xw:1.00xh;0.0595xw,0&resize=980:*",
-    main_page: false,
+    main_page: true,
     short_bio: "Best Greek island for beaches",
     medium_bio: "With 60 splendid beaches to choose from, it's safe to say that Skiathos is the best Greek island for sunbathers. From Lalaria to Koukounaries, you'll find lovely stretches of sand and pebble beaches backed by lush pine trees. ",
     long_bio: "Skiáthos, the most cosmopolitan island in the Northern Sporades, is truly a paradise on earth, with lush pine forests and crystal-clear azure waters. Despite the rapid growth in tourism here in recent decades, it the island is still picturesque and unspoilt and blessed with more than 60 beautifully clean beaches. The most famous is Koukounariés, which has been declared the third most beautiful beach in the Mediterranean. When you add in its bustling nightlife, it is only natural that the island attracts thousands of young visitors every year! 
     
     Whether you want to hide yourself away from the crowds or dance until you drop – and then wake up and do it all over again –, Skiáthos, with its delirious night life, is a real treat for visitors and especially for young people seeking the freedom to ignore conventions and party on to the frenetic beats of their favourite music! The pedestrianised street by the Old Harbour is the ultimate hotspot for entertainment! Buzzing bars and clubs keep youngsters rocking through the night and until the early morning! The party continues in the area of Ammoudiá (on the road to the airport) where entertainment addicts celebrate in big open air clubs! Colourful cultural events, concerts and art exhibitions held throughout summer add a special touch to holidays on the island!",
-    tourist_rank: 0, 
+    tourist_rank: 5, 
     family_rank: 0,
-    budget_rank: 4
+    budget_rank: 0
 )
 symi = Island.create(name: "Symi", 
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/stunning-greek-island-royalty-free-image-1582048797.jpg?crop=1.00xw:0.921xh;0,0.0306xh&resize=980:*",
@@ -228,14 +228,14 @@ lefkada = Island.create(name: "Lefkada",
 alonnisos = Island.create(name: "Alonnisos", 
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/agalou-laka-beach-from-above-alonissos-royalty-free-image-1582049304.jpg?crop=1.00xw:0.921xh;0,0&resize=980:*",
     main_page: false,
-    short_bio: "Wonderful island for nature lovers",
+    short_bio: "Great for nature lovers",
     medium_bio: "This island treasure offers rugged landscapes, olive groves and pine forests perfect for leisurely walks – it's a nature lover's dream! The most remote of the Northern Sporades, Alonissos, is home to the National Marine Park of Northern Sporades, where rare seabirds, dolphins and the Mediterranean monk seal reside.",
     long_bio: "Blessed with rugged natural landscapes, and surrounded by small islands scattered around the archipelagos, Alonissos is an island ideal for those you want to unwind and enjoy leisure walks surrounded by pine forests, olive groves and orchards. The island is the most remote of the Northern Sporades island group, and plays host to the National Marine Park of Northern Sporades, a refuge for rare seabirds, dolphins and the Mediterranean monk seal, monachus monachus.
 
     “Ikos”, as was named the island in antiquity, was first inhabited by Stafylos (meaning grape), the son of Dionysus and Ariadne. This myth explains the island’s strong bonds with viticulture from ancient times until today. Urns bearing the stamp “IKION” were exported all around the ancient world confirming the island’s great fame as excellent wine-producing region. According to the myth, Pileas, the father of Achilles, was buried on Alonissos. This is the reason why the island’s second name is “Achilliodromia”. Different versions of this name have survived throughout the years: “Hiliodromia”, “Liadromia”, “Diadromia”.",
     tourist_rank: 0, 
     family_rank: 0,
-    budget_rank: 0
+    budget_rank: 1
 )
 sifnos = Island.create(name: "Sifanos", 
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/suspending-boat-royalty-free-image-1582107742.jpg?crop=1xw:0.91279xh;center,top&resize=980:*",
@@ -254,7 +254,7 @@ sifnos = Island.create(name: "Sifanos",
 astypalaia = Island.create(name: "Astypalaia", 
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/astypalea-island-dodecanese-greece-royalty-free-image-1582108014.jpg?crop=0.896xw:1.00xh;0.104xw,0&resize=980:*",
     main_page: false,
-    short_bio: "Great for going off the beaten track",
+    short_bio: "Get off the beaten path",
     medium_bio: "This Dodecanese island shaped like a butterfly sits far west of Kos and has centuries-old history, attractive villages and sun-drenched beaches that many tourists fail to explore.",
     long_bio: "Located exactly where the Dodecanese meet the Cyclades, the island of Astypalaia boasts a centuries-old history, whitewashed villages and sun-drenched beaches. Embark on a fascinating trip where the deep blue of the sea meets the bright white colours of beautiful island houses…
 
@@ -263,7 +263,7 @@ astypalaia = Island.create(name: "Astypalaia",
     The island was named after Astypalaia, the daughter of Phoenix and Perimede. In the old days the island was also called Ichthyoessa due to its abundant fishing grounds. It was first inhabited in prehistoric times. In 1204 it came under the Venetian rule enforced by the Guerini family until 1537 with the exception of a brief period in time (1269-1310) when the Byzantine Empire took over again. In 1537 the Turks occupied the island. As is the case with the other Dodecanese islands, Astypalaia remained under Turkish rule until 1912; it was then conquered by the Italians, the British, and the Germans until it was finally integrated in Greece in 1948. There are ferries to Piraeus and Kalymnos and flights to Athens and Rhodes Airports.",
     tourist_rank: 0, 
     family_rank: 0,
-    budget_rank: 0
+    budget_rank: 4
 )
 poros = Island.create(name: "Poros", 
     image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/poros-greece-royalty-free-image-1582108299.jpg?crop=1.00xw:0.918xh;0,0.0128xh&resize=980:*",

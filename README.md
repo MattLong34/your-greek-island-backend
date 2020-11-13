@@ -2,7 +2,7 @@
 
 > Your new favorite way to browse the Greek islands!
 
-![Cash Castle Image](https://i.imgur.com/VJaH9mD.jpg)
+![Your Greek Island Image](https://i.imgur.com/VJaH9mD.jpg)
 
 ## Table of contents
 
